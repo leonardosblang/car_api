@@ -1,4 +1,5 @@
 # Python FastAPI - CRUD
+
 API utilizando Mongo DB
 
 ## Instação e rodar
