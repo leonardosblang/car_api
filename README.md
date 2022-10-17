@@ -1,6 +1,6 @@
-# Python FastAPI - CRUD
+# Python FastAPI - CarRUD
 
-API utilizando Mongo DB
+API e testes unitários de uma api de carros;
 
 ## Instação e rodar
 
@@ -13,8 +13,17 @@ pip install pymongo
 pip install dnspython
 ```
 
-Rodar
+Rodar API
 
 ```bash
 uvicorn main:app
+```
+<p align="center">
+  <img height="256" src="assets_images/image.PNG" />
+</p>
+
+Rodar Testes
+
+```bash
+python -m unittest
 ```
